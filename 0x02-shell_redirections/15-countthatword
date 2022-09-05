@@ -1,2 +1,2 @@
-'bin' /etc/passwd
-echo "ALX School"
+#!/bin/bash
+egrep -c 'bin' /etc/passwd
